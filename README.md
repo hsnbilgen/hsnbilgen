@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Hasan. An APIGEE Expert & NodeJS Developer from Turkey.</h1>
+<h1 align="center">Hi 👋 I'm Hasan. An APIGEE Expert, Technical Lead, API Architect, Leading Software Development Projects</h1>
 <h3 align="center">Currently in Fintech Ecosystem | Likes exploring 🌐 Public APIs and Fintech Eco-System applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hsnbilgen&label=Profile%20views&color=0e75b6&style=flat" alt="hsnbilgen" /> </p>
